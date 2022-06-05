@@ -1,0 +1,28 @@
+Indegree:
+Node Atl has indegree 11
+Node Bos has indegree 11
+Node Chi has indegree 11
+Node Dal has indegree 11
+Node Den has indegree 11
+Node LA has indegree 11
+Node Mia has indegree 11
+Node Min has indegree 11
+Node NY has indegree 11
+Node Sea has indegree 11
+Node SF has indegree 11
+Node Was has indegree 11
+
+Outdegree:
+Node Atl has outdegree 11
+Node Bos has outdegree 11
+Node Chi has outdegree 11
+Node Dal has outdegree 11
+Node Den has outdegree 11
+Node LA has outdegree 11
+Node Mia has outdegree 11
+Node Min has outdegree 11
+Node NY has outdegree 11
+Node Sea has outdegree 11
+Node SF has outdegree 11
+Node Was has outdegree 11
+

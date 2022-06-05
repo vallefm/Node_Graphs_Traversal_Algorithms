@@ -1,0 +1,14 @@
+Indegree:
+Node C has indegree 4
+Node A has indegree 3
+Node B has indegree 2
+Node D has indegree 2
+Node E has indegree 2
+
+Outdegree:
+Node A has outdegree 3
+Node B has outdegree 3
+Node D has outdegree 3
+Node E has outdegree 3
+Node C has outdegree 1
+

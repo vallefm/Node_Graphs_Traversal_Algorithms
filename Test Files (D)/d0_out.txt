@@ -1,0 +1,2 @@
+M -> C -> F -> D -> M
+Total tour distance: 3083

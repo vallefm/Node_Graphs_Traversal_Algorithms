@@ -1,0 +1,16 @@
+Indegree:
+Node 1 has indegree 0
+Node 2 has indegree 0
+Node 3 has indegree 0
+Node 4 has indegree 0
+Node 5 has indegree 0
+Node 6 has indegree 0
+
+Outdegree:
+Node 1 has outdegree 0
+Node 2 has outdegree 0
+Node 3 has outdegree 0
+Node 4 has outdegree 0
+Node 5 has outdegree 0
+Node 6 has outdegree 0
+

@@ -1,0 +1,28 @@
+DFS of graph
+
+Node	Disc	Finish
+S	1	10
+T	11	16
+U	12	15
+V	13	14
+W	3	6
+X	4	5
+Y	7	8
+Z	2	9
+
+Edge Classification:
+
+Edge	Type
+S->W	Forward
+S->Z	Tree
+U->T	Back
+U->V	Tree
+T->U	Tree
+T->V	Forward
+V->S	Cross
+V->W	Cross
+W->X	Tree
+X->Z	Back
+Y->X	Cross
+Z->W	Tree
+Z->Y	Tree
